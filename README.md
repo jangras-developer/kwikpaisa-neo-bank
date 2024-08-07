@@ -1,4 +1,4 @@
-## KwikPaisa NEO Bank SDK
+## KwikPaisa NEO Bank Payment Gateway and Global Banking APIs and SDK
 
 This repository provides the SDK and integration code for interacting with the KwikPaisa NEO Bank's Payment Gateway API.
 
